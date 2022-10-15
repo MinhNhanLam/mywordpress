@@ -8,41 +8,33 @@
 	>
 
 <channel>
-	<title>My wordpress</title>
-	<atom:link href="https://minhnhanlam.github.io/mywordpress/feed/" rel="self" type="application/rss+xml" />
-	<link>https://minhnhanlam.github.io/mywordpress</link>
+	<title>My WordPress</title>
+	<atom:link href="https://https://minhnhanlam.github.io/wordpress/feed/" rel="self" type="application/rss+xml" />
+	<link>https://https://minhnhanlam.github.io/wordpress</link>
 	<description>Một trang web mới sử dụng WordPress</description>
-	<lastBuildDate>Wed, 17 Aug 2022 07:21:12 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 28 Sep 2022 07:23:40 +0000</lastBuildDate>
 	<language>vi</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=6.0.2</generator>
-
-<image>
-	<url>https://minhnhanlam.github.io/mywordpress/wp-content/uploads/2022/09/logo123website.png</url>
-	<title>My wordpress</title>
-	<link>https://minhnhanlam.github.io/mywordpress</link>
-	<width>32</width>
-	<height>32</height>
-</image> 
 	<item>
 		<title>Chào tất cả mọi người!</title>
-		<link>https://minhnhanlam.github.io/mywordpress/chao-moi-nguoi/</link>
-					<comments>https://minhnhanlam.github.io/mywordpress/chao-moi-nguoi/#comments</comments>
+		<link>https://https://minhnhanlam.github.io/wordpress/2022/09/28/chao-moi-nguoi/</link>
+					<comments>https://https://minhnhanlam.github.io/wordpress/2022/09/28/chao-moi-nguoi/#comments</comments>
 		
 		<dc:creator><![CDATA[lamminhnhan]]></dc:creator>
-		<pubDate>Wed, 17 Aug 2022 07:21:12 +0000</pubDate>
+		<pubDate>Wed, 28 Sep 2022 07:23:40 +0000</pubDate>
 				<category><![CDATA[Chưa phân loại]]></category>
-		<guid isPermaLink="false">https://minhnhanlam.github.io/mywordpress/?p=1</guid>
+		<guid isPermaLink="false">https://https://minhnhanlam.github.io/wordpress/?p=1</guid>
 
 					<description><![CDATA[Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!]]></description>
 										<content:encoded><![CDATA[
 <p>Cảm ơn vì đã sử dụng WordPress. Đây là bài viết đầu tiên của bạn. Sửa hoặc xóa nó, và bắt đầu bài viết của bạn nhé!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>https://minhnhanlam.github.io/mywordpress/chao-moi-nguoi/feed/</wfw:commentRss>
+					<wfw:commentRss>https://https://minhnhanlam.github.io/wordpress/2022/09/28/chao-moi-nguoi/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
